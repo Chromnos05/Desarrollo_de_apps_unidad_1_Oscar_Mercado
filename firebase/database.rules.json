@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "usuarios": {
+      ".read": "auth != null",
+      ".indexOn": ["username", "nombre", "email"],
+      "$uid": {
+        ".write": "auth.uid === $uid"
+      }
+    },
+    "canciones": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      ".indexOn": ["ritmo", "banda", "interprete", "album", "autor", "duracion", "fechaLanzamiento"]
+    }
+  }
+}
