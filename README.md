@@ -5,7 +5,7 @@ Permite registrar usuarios, iniciar sesión (con contraseña o huella digital), 
 
 | Dato | Valor |
 |---|---|
-| Estudiante | Oscar Mercado |
+| Estudiante | 75022410035 – Oscar Mercado |
 | Email institucional | omercador@unicartagena.edu.co |
 | Ejercicio | 20 – Canciones |
 | Actividad | Unidad 1 – Aplicación móvil en Kodular con sensores |
