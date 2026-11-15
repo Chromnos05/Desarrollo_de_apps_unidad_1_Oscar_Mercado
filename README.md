@@ -9,7 +9,7 @@ Permite registrar usuarios, iniciar sesión (con contraseña o huella digital), 
 | Email institucional | omercador@unicartagena.edu.co |
 | Ejercicio | 20 – Canciones |
 | Actividad | Unidad 1 – Aplicación móvil en Kodular con sensores |
-| Video explicativo | _Pendiente_ |
+| Video explicativo | [youtu.be/40gfYjkFVpw](https://youtu.be/40gfYjkFVpw) |
 
 ---
 
